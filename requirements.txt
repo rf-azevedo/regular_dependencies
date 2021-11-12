@@ -1,4 +1,4 @@
 git+https://github.com/matiascodesal/git-for-pip-example.git@v1.0.0
 gitpython==3.1.18
-git+https://github.com/yaml/pyyaml.git@5.3.1
+pyyaml==5.3.1
 
